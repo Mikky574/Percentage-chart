@@ -75,31 +75,31 @@ st->op1->op2->op3->op4->op5->op6->op7->op8->op9->op10->op11->op12->e
 We have designed different usage methods for the situations where users may give different data input methods. The following are different usage examples given different data input methods.
 ### 4.1Provide pandas.dataframe dataset directly
 (1)Data set example and import method
-![show picture](img\pic3.png)
-![show picture](img\pic2.png)
+![show picture](img/pic3.png)
+![show picture](img/pic2.png)
 
 (2)Data visualization results
 
 Given parameter l_ area，tick_ x_ labels，index_ l and data set da1.
 
-![show picture](img\pic4.png)
+![show picture](img/pic4.png)
 
 Only given data set da1, l_ area and ick_ x_ labels default to count, index_ l is the da1 parameter by default.
 
-![show picture](img\pic6.png)
+![show picture](img/pic6.png)
 
 ### 4.2 Provide solutions for multi-dimensional list data sets
 (1)Data import method
-![show picture](img\pic5.png)
+![show picture](img/pic5.png)
 (2)Data visualization results
 
 Given list dataset l_ data, parameter l_ area,tick_ x_ labels and index_ l. And l_ data_ index (this is l_ column label parameter of data).
 
-![show picture](img\pic7.png)
+![show picture](img/pic7.png)
 
 Only given data set l_data, other parameters are default.
 
-![show picture](img\pic8.png)
+![show picture](img/pic8.png)
 
 ## **5.Advantages and disadvantages analysis and improvement methods**
 ### 5.1 Analysis of advantages and disadvantages
@@ -124,11 +124,11 @@ st->op1->op2->op3->op4->e
 ### 5.4 Data visualization of Waffle Chart
 (1)Import of data sets
 
-![show picture](img\pic10.png)
+![show picture](img/pic10.png)
 
 (2)Data visualization results
 
-![show picture](img\pic9.png)
+![show picture](img/pic9.png)
 
 
 
