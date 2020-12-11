@@ -33,7 +33,7 @@ Analyze this data visualization from a color perspective. For an analyst or read
 
 Data visualization is as follows:
 
-![show picture](img\pic1.png)
+![show picture](img/pic1.png)
 
 ## **3.Re-engraved data visualization content**
 ###3.1 Explanation of the code
